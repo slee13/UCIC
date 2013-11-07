@@ -1,0 +1,9 @@
+the variable
+
+	scene
+	
+is a array of surfaces, the order of the array is the drawing order. 
+
+	scene[0] is the bottom surface
+	
+	scene[-1] is the top
